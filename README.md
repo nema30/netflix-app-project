@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netflix Clone App UI
 
 - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
@@ -19,3 +20,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# netflix-app-project
+naima updyzamad jamac c119735 ca191
+>>>>>>> f60e560be5a9a357b6196f008ac5e8b4acda6962
